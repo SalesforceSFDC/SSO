@@ -34,4 +34,3 @@ Relay State
 In the above example, "/00O/ is the object key prefix to reports. After successful sign on, user is automatically redirected to Reports tab in salesforce.
 
 Note: Salesforce does a POST request, so check your IDP url that is provided by your IDP is not doing a GET request. Else, Relaystate param will be returned as NULL.
-
