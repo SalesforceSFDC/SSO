@@ -1,5 +1,7 @@
 # SSO
 
+* [RelayState ID](https://help.salesforce.com/articleView?id=000176508&type=1)
+
 ### Description	
 * How to specify relay state on Identify Provider set up.
 
