@@ -1,6 +1,7 @@
 # SSO
 
 * [RelayState ID](https://help.salesforce.com/articleView?id=000176508&type=1)
+* [Customize SAML Start, Error, Login, and Logout Pages](https://help.salesforce.com/articleView?id=sso_saml_start_stop_pages.htm&type=0)
 
 ### Description	
 * How to specify relay state on Identify Provider set up.
